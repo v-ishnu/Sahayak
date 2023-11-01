@@ -1,0 +1,50 @@
+.Header{
+    width: 100%;
+}
+.sub-header{
+    background-color: maroon;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+}
+.main-header{
+    color:whitesmoke;
+    max-width: auto;
+    background-color: orange;
+    padding:20px 30px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.main-header a{
+    float:left;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    line-height: 20px;
+    border-radius: 4px;
+}
+
+.main-header .logo{ 
+    font-size: 20px;
+    font-weight:bold;
+}
+.main-header .logo:hover{
+    
+
+}
+
+.main-header .menu{
+    float: right;
+    /* background-color: blanchedalmond; */
+    border-radius: 10px;
+}
+.main-header a.active{
+    background-color: blanchedalmond;
+    border: 1px dashed rgb(229, 185, 118);
+}
+.main-header a:hover{
+    background-color: rgb(229, 185, 118);
+    border: 1px solid blanchedalmond;
+    color: aliceblue;
+}
