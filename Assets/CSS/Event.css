@@ -82,6 +82,7 @@
     #hero .carousel-control-prev,
     #hero .carousel-control-next {
       width: 5%;
+      text-decoration: none;
     }
   }
   
