@@ -48,8 +48,7 @@
     width: 100%;
     overflow: hidden;
     position: relative;
-    background: linear-gradient(0deg, rbg(11,11,11) 0%, #002347 100%);
-    
+    background: linear-gradient(0deg, rbg(11,11,11) 0%, rbg(0, 35, 71) 100%);
     padding: 0;
   }
   
