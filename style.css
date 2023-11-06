@@ -27,14 +27,14 @@ body {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-#hero {
+#hero-sec {
     width: 100%;
     height: 100vh;
     position: initial;
 
   }
   
-  #hero .hero-container {
+  #hero-sec .hero-container {
     position: absolute;
     bottom: 0;
     top: 0;
@@ -53,7 +53,7 @@ body {
     background-position-y: 50%;
   }
   
-  #hero h1 {
+  #hero-sec h1 {
     margin: 0 0 20px 0;
     padding-left: 15px;
     font-size: 58px;
@@ -62,7 +62,7 @@ body {
     color: #6a9893;
   }
   
-  #hero h2 {
+  #hero-sec h2 {
     font-family: "poppins";
     color: whitesmoke;
     margin-bottom: 30px;
@@ -73,7 +73,7 @@ body {
     text-transform: uppercase;
   }
 
-  #hero .btn{
+  #hero-sec .btn{
     display: flex;
     text-align: center;
     padding: 30px;
@@ -90,7 +90,7 @@ body {
     }
   }
 
-  #hero .btn-get-started {
+  #hero-sec .btn-get-started {
     font-family: "Poppins";
     text-transform: uppercase;
     font-weight: 600;
@@ -108,7 +108,7 @@ body {
     background-color: 0.2s ease-in-out 0s;
   }
   
-  #hero .btn-get-started:hover {
+  #hero-sec .btn-get-started:hover {
     transition: 0.5s;
     border: 2px solid #6a9893;
     background: transparent;
@@ -118,7 +118,7 @@ body {
   /* Desktops, large screens Media Query */
   
   @media (min-width: 1024px) {
-    #hero {
+    #hero-sec {
       position: relative;
       background-attachment: fixed;
       background-repeat: no-repeat;
@@ -130,7 +130,7 @@ body {
   /* iPads, Tablets Media Query */
   
   @media (min-width: 481px) and (max-width: 768px) {
-    #hero{
+    #hero-sec{
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
@@ -138,7 +138,7 @@ body {
 
     }
     
-    #hero h1 {
+    #hero-sec h1 {
       font-size: 38px;
       line-height: 36px;
     }
@@ -147,7 +147,7 @@ body {
   /* Small screens, laptops Media Query */
 
   @media (min-width: 769px) and (max-width: 1024px) {
-    #hero{
+    #hero-sec{
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
@@ -159,23 +159,23 @@ body {
   /* Mobile Device Media Quary */
 
   @media (min-width: 320px) and (max-width: 480px){
-    #hero{
+    #hero-sec{
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
     }
 
-    #hero h1{
+    #hero-sec h1{
       font-size: 28px;
     }
 
-    #hero h2{
+    #hero-sec h2{
       font-size: 12px;
       color: black;
     }
 
-    #hero .hero-container {
+    #hero-sec .hero-container {
       background-color:rgba(248, 247, 216, 0.299) ;
     }
 
