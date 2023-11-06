@@ -80,6 +80,7 @@
   
   #hero .carousel-control-prev,
   #hero .carousel-control-next {
+    text-decoration:none;
     width: 10%;
   }
   
