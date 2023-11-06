@@ -54,7 +54,7 @@
     padding: 0;
   }
   
-  #hero-ev .carousel-container {
+  #hero .carousel-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,14 +65,14 @@
     padding-top: 60px;
   }
   
-  #hero-ev h2 {
+  #hero h2 {
     color: #fff;
     margin-bottom: 30px;
     font-size: 24px;
     font-weight: 700;
   }
   
-  #hero-ev p {
+  #hero p {
     width: 80%;
     -webkit-animation-delay: 0.4s;
     animation-delay: 0.4s;
@@ -80,14 +80,14 @@
     color: #fff;
   }
   
-  #hero-ev .carousel-control-prev,
+  #hero .carousel-control-prev,
   #hero .carousel-control-next {
     text-decoration: none;
     width: 10%;
   }
   
-  #hero-ev .carousel-control-next-icon,
-  #hero-ev .carousel-control-prev-icon {
+  #hero .carousel-control-next-icon,
+  #hero .carousel-control-prev-icon {
     background: none;
     font-size: 48px;
     line-height: 1;
@@ -96,7 +96,7 @@
     text-decoration: none;
   }
   
-  #hero-ev .btn-get-started {
+  #hero .btn-get-started {
     font-family: "Raleway", sans-serif;
     font-weight: 500;
     font-size: 14px;
@@ -114,7 +114,7 @@
     border: 2px solid white;
   }
   
-  #hero-ev .btn-get-started:hover {
+  #hero .btn-get-started:hover {
     background: #ef6603;
     color: #fff;
     text-decoration: none;
@@ -125,19 +125,19 @@
       width: 60%;
     }
   
-    #hero-ev .carousel-control-prev,
-    #hero-ev .carousel-control-next {
+    #hero .carousel-control-prev,
+    #hero .carousel-control-next {
       width: 5%;
       text-decoration: none;
     }
   }
   
   @media (max-width: 768px) {
-    #hero-ev .carousel-container {
+    #hero .carousel-container {
       height: 90vh;
     }
   
-    #hero-ev h2 {
+    #hero h2 {
       font-size: 28px;
     }
   }
