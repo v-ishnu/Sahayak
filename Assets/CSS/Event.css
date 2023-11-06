@@ -80,7 +80,7 @@
   
   #hero .carousel-control-prev,
   #hero .carousel-control-next {
-    text-decoration:none;
+    text-decoration: none;
     width: 10%;
   }
   
@@ -91,12 +91,14 @@
     line-height: 1;
     width: auto;
     height: auto;
+    text-decoration: none;
   }
   
   #hero .btn-get-started {
     font-family: "Raleway", sans-serif;
     font-weight: 500;
     font-size: 14px;
+    text-decoration: none;
     letter-spacing: 1px;
     display: inline-block;
     padding: 12px 32px;
