@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,400italic);
-.product-navbar {
+/*.product-navbar {
   height: 40px;
   width: 100%;
   background: #090b0f;
@@ -31,10 +31,10 @@
   text-decoration: none;
   text-transform: uppercase;
   text-shadow: none !important;
-}
+}*/
 
 .hero {
-  background: #171b23;
+  background: #002347;
   padding-left: 0;
   padding-right: 0;
 }
