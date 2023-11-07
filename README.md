@@ -6,15 +6,19 @@ Basically, This is an online tool that uses `artificial intelligence` to summari
 `Sahayak` has a simple and user-friendly interface, where users can paste their texts or enter a URL to get a summary in one click. The website also offers extensions for browsers, such as Chrome and Firefox, to allow users to summarize online articles more easily. The website supports multiple languages, such as English, French, Spanish, German, Italian, and Portuguese.
 
 `Sahayak` provides some examples of how Resoomer can be used for different purposes, such as education, journalism, editing, reading, libraries, writers, publishers, and museums. The website also has a section where users can follow the latest news and updates about Resoomer on Twitter. The website is under maintenance.
-## Environment Variables
+## Pages
 
 To run this project, you will need to following the few simple steps:
 
-`Sahayak`
+[`Sahayak`](https://v-ishnu.github.io/InnovXus/)
 
-`Event`
+[`Event`](https://v-ishnu.github.io/InnovXus/Event.html)
 
-`Try_Sahayak`
+[`Try_Sahayak`](https://v-ishnu.github.io/InnovXus/403.html)
+
+[`Error!`](https://v-ishnu.github.io/InnovXus/Error!.html)
+
+[`Contact Us`](https://v-ishnu.github.io/InnovXus/Contact.html)
 
 
 ## FAQ
